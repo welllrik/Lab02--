@@ -12,3 +12,4 @@ C:\Users\Mvideo\Documents\Lab02-Akimova\obj\Debug\net10.0\refint\Lab02-Akimova.d
 C:\Users\Mvideo\Documents\Lab02-Akimova\obj\Debug\net10.0\Lab02-Akimova.pdb
 C:\Users\Mvideo\Documents\Lab02-Akimova\obj\Debug\net10.0\Lab02-Akimova.genruntimeconfig.cache
 C:\Users\Mvideo\Documents\Lab02-Akimova\obj\Debug\net10.0\ref\Lab02-Akimova.dll
+C:\Users\Mvideo\Documents\Lab02-Akimova\obj\Debug\net10.0\Lab02-Akimova.sourcelink.json
