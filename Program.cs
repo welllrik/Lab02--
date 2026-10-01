@@ -82,5 +82,13 @@ Console.WriteLine($"Год рождения: {birthYear} (в 2030 будет {ag
 Console.WriteLine($"Средний балл: {averageGrade}");
 Console.WriteLine($"Балл >= 4.0: {isGradeGood}");
 Console.WriteLine($"Любимая буква: {favoriteLetter}");
+ 
+ Console.WriteLine("\n--- Калькулятор ИМТ ---");
+Console.Write("Введите рост в метрах : ");
+double height = double.Parse(Console.ReadLine());
+Console.Write("Введите вес в килограммах : ");
+double weight = double.Parse(Console.ReadLine());
+double bmi = weight / (height * height);
+Console.WriteLine($"ИМТ: {bmi:F2}");
 
 
